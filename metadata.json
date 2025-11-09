@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Story Weaver",
+  "description": "An interactive story game powered by Gemini. Players navigate through categorized stories (thriller, horror, moral, fun), making choices to solve problems and uncover plot twists. Features dynamically generated stories, images, and character audio for an immersive experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
